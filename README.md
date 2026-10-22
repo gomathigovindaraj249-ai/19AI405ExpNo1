@@ -90,7 +90,8 @@ agent.print_status()
 
 ```
 OUTPUT :
-![alt text](<Screenshot 2026-10-22 090908.png>)
+
+![alt text](image.png)
 
 RESULT:
 Thus the developing AI agent with PEAS description was implemented using python program.
